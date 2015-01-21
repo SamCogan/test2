@@ -1,5 +1,5 @@
 public class calc{
-	//declare vars
+	//declares vars
 	private int x;
 	private int y;
 	private int z;
